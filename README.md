@@ -5,7 +5,7 @@ BigNumber objects via BcMath and several helper functions that are essential for
 
 ## Requirements
 
-* PHP >= 7.2
+* PHP >= 8.1
 * ext-bcmath
 * ext-mbstring
 
